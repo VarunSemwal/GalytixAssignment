@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GalytixAssignment.API/GalytixAssignment.API.csproj" />
+  <Project Path="GalytixAssignment.Test/GalytixAssignment.Test.csproj" />
+</Solution>
